@@ -2,14 +2,14 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "opusminer"]
-	path = opusminer
-	url = https://github.com/cran/opusminer
-[submodule "Rlgt"]
-	path = Rlgt
-	url = https://github.com/cbergmeir/rlgt
-	subdir = Rlgt
 [submodule "RSNNS"]
 	path = RSNNS
 	url = https://github.com/cbergmeir/rsnns
 	subdir = RSNNS
+[submodule "Rlgt"]
+	path = Rlgt
+	url = https://github.com/cbergmeir/rlgt
+	subdir = Rlgt
+[submodule "opusminer"]
+	path = opusminer
+	url = https://github.com/cran/opusminer
